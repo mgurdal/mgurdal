@@ -1,5 +1,7 @@
 ### Hi there, I am Mehmet👋
 
+I am Co-founder & Software Developer at [Gnarly Game Studio](https://www.linkedin.com/company/gnarlygamestudio).
+
 - 🔭 I’m currently working on **building multiplayer casual games**.
 - 🌱 I’m currently learning **game design and the psychological basis of gaming**.
 - 🤔 I would be happy to talk about **company culture, diversity in gaming industry and game design ideas**.
